@@ -1,0 +1,5 @@
+const { sum, devide } = require('./utlis.js')
+const value = sum(28, 10)
+const value2 = devide(28, 2)
+console.log(value)
+console.log(value2)

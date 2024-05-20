@@ -1,0 +1,18 @@
+{
+  "name": "nguyen-thanh-tu",
+  "version": "0.0.1",
+  "description": "Tôi tự học npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon Vd1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
